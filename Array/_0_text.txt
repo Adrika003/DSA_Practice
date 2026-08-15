@@ -1,0 +1,5 @@
+DSA habits:
+1. Approach — what am I going to do?
+2. Why it works — why does this give the correct answer?
+3. Complexity — how much time/memory does it use?
+4. Code — then actually implement it.
